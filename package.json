@@ -1,6 +1,6 @@
 {
   "name": "fastify-standard-request-reply",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert between standard web APIs Request/Response and Fastify's Request/Reply",
   "type": "module",
   "exports": {
